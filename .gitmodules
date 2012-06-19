@@ -1,0 +1,24 @@
+[submodule "bundle/surround.vim"]
+	path = bundle/surround.vim
+	url = https://github.com/vim-scripts/surround.vim
+[submodule "bundle/taglist.vim.git"]
+	path = bundle/taglist.vim.git
+	url = https://github.com/vim-scripts/taglist.vim.git
+[submodule "bundle/pep8.git"]
+	path = bundle/pep8.git
+	url = https://github.com/vim-scripts/pep8.git
+[submodule "bundle/pythoncomplete.git"]
+	path = bundle/pythoncomplete.git
+	url = https://github.com/vim-scripts/pythoncomplete.git
+[submodule "bundle/pyflakes.vim.git"]
+	path = bundle/pyflakes.vim.git
+	url = https://github.com/vim-scripts/pyflakes.vim.git
+[submodule "bundle/nerdtree.git"]
+	path = bundle/nerdtree.git
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/vim-matchit.git"]
+	path = bundle/vim-matchit.git
+	url = https://github.com/tsaleh/vim-matchit.git
+[submodule "bundle/bufexplorer.zip.git"]
+	path = bundle/bufexplorer.zip.git
+	url = https://github.com/pentie/bufexplorer.zip.git

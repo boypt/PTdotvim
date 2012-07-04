@@ -10,9 +10,6 @@
 [submodule "bundle/pythoncomplete.git"]
 	path = bundle/pythoncomplete.git
 	url = https://github.com/vim-scripts/pythoncomplete.git
-[submodule "bundle/pyflakes.vim.git"]
-	path = bundle/pyflakes.vim.git
-	url = https://github.com/vim-scripts/pyflakes.vim.git
 [submodule "bundle/nerdtree.git"]
 	path = bundle/nerdtree.git
 	url = https://github.com/scrooloose/nerdtree.git
@@ -22,3 +19,6 @@
 [submodule "bundle/bufexplorer.zip.git"]
 	path = bundle/bufexplorer.zip.git
 	url = https://github.com/pentie/bufexplorer.zip.git
+[submodule "bundle/syntastic.git"]
+	path = bundle/syntastic.git
+	url = https://github.com/scrooloose/syntastic.git

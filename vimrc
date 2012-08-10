@@ -8,6 +8,11 @@ call pathogen#helptags()
 " Sets how many lines of history VIM has to remember
 set history=300
 
+" Undo setting
+set undodir=~/.vim/undodir
+set undofile on
+
+
 " Enable filetype plugin
 filetype on
 filetype indent on
